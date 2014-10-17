@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msc:home|Door43 (msc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msc|d43-msc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msc/archive/master.zip|d43-msc.zip]]
+
+**Recent Changes**
+{{changes>ns = msc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msc|Ethnologue data]]
+
